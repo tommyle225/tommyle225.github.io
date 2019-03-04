@@ -9,7 +9,7 @@ function ExperienceList(props){
         <div className="resume-content">
           <h3 className="mb-0">{experience.title}</h3>
           <div className="subheading mb-3">{experience.company}</div>
-          <p></p>
+          <p>{experience.description}</p>
         </div>
         <div className="resume-date text-md-right">
           <span className="text-primary">{experience.date}</span>

@@ -34,35 +34,35 @@ const resumeData = {
             company: 'Vinformatix, LLC',
             date: 'APRIL 2018 – PRESENT',
             location: '',
-            description: ''
+            description: 'In support of the Levee Permit project, implemented integration with a payment gateway system and developed modules to process credit cards and added system configuration to setup integration with different Authorize.net accounts. Supported City of Baton Rouge by maintaining reports and backend process of data extractions.'
         },
         {
             title: 'IT Developer Integrator',
             company: 'Marathon Petroleum Corporation',
             date: 'JUNE 2015 – APRIL 2018',
             location: '',
-            description: ''
+            description: 'Implemented a SharePoint onboarding system with a Nintex Workflow to create a better streamlined of tasks for onboarding new employees.  Converted legacy VB6 application to a ASP.NET MVC application.  Developed a data importer and dashboard solution which allows admins to view devices, inventories of various systems.'
         },
         {
             title: 'Software Developer',
             company: 'Enta USA, LLC',
             date: 'DEC 2010 – MAY 2015',
             location: '',
-            description: ''
+            description: 'Developed and released POS Software for ticketing sales using C#, WPF, WCF, MVVM, PRIM, SQL Server, .NET Framework 4.5 technologies. Developed in .NET and released KIOSK Software for ticketing sales using C#, WPF, WCF, MVVM, PRISM, SQL Server, .NET Framework 4.5 technologies. Developed a mobile phone web application for ticketing purchases using C#, ASP.NET MVC, WCF, SQL Server, jQuery, HTML5, .NET Framework 4.5 technologies.  Practiced Agile software methodologies. CodedUI automation testing.'
         },
         {
             title: 'Senior Software Engineer',
             company: 'Molina Healthcare Inc',
             date: 'MAY 2010 – DEC 2010',
             location: '',
-            description: ''
+            description: 'Project Lead on multiple projects for the Louisiana’s Department of Health and Hospitals. Developed a .NET application responsible for registering health providers and hospital qualifying eligibility for Louisiana’s Electronic Health Records Incentive Payment Program.'
         },
         {
             title: 'Software Engineer',
             company: 'Unisys Corporation',
             date: 'FEB 2005 – APR 2010',
             location: '',
-            description: ''
+            description: 'Project Lead on various projects for the Louisiana’s Department of Health and Hospitals. Implemented and developed a .NET application responsible for X12 EDI parsing which supplements to the 270/271 Health Care Eligibility Benefit Inquiry and Response.'
         }
     ]
 }
