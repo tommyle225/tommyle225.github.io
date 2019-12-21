@@ -19,9 +19,9 @@ const resumeData = {
     },
     technicalSkills:[
         '.NET Framework',
-        'C#, VB.NET, ADO/ADO.NET, ASP, ASP.NET, ASP.NET MVC, AJAX, WCF, WPF, MVVM, XAML, PRISM, EF, XML',
+        'C#, VB.NET, ADO/ADO.NET, ASP, ASP.NET, ASP.NET MVC, ASP.NET Web API, AJAX, WCF, WPF, MVVM, XAML, PRISM, EF, XML',
         'HTML5, JQuery, Kendo, CSS, Bootstrap',
-        'Visual Studio, TFS, GIT, VSTS, Azure DevOps',
+        'Visual Studio, TFS, GIT, VSTS, Azure DevOps MS Azure',
         'MS SQL, Oracle, NHibernate, Access',
         'SSMS, SSRS, SSIS',
         'PowerShell, IBM Rational Automation, CodeUI Test Automation',
@@ -30,9 +30,16 @@ const resumeData = {
     ],
     experiences: [
         {
+            title: 'Software Engineer',
+            company: 'H&E Equipment Services',
+            date: 'APRIL 2019 – PRESENT',
+            location: '',
+            description: 'Backend Web API development. Manages DevOPS Continuous Integration and Continuous Deployment. Microsoft Azure development. '
+        },
+        {
             title: 'Senior Software Developer',
             company: 'Vinformatix, LLC',
-            date: 'APRIL 2018 – PRESENT',
+            date: 'APRIL 2018 – APRIL 2019',
             location: '',
             description: 'In support of the Levee Permit project, implemented integration with a payment gateway system and developed modules to process credit cards and added system configuration to setup integration with different Authorize.net accounts. Supported City of Baton Rouge by maintaining reports and backend process of data extractions.'
         },
